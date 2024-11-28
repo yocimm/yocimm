@@ -18,4 +18,4 @@ I'm **Paramita Citra**!
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yocimm&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=yocimm&theme=transparent&no-frame=true&no-bg=false&margin-w=4)
